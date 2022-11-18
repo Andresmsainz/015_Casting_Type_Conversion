@@ -1,0 +1,7 @@
+C:\SRC\CSharp\015_Casting_Type_Conversion\015_Casting_Type_Conversion\bin\Debug\015_Casting_Type_Conversion.exe.config
+C:\SRC\CSharp\015_Casting_Type_Conversion\015_Casting_Type_Conversion\bin\Debug\015_Casting_Type_Conversion.exe
+C:\SRC\CSharp\015_Casting_Type_Conversion\015_Casting_Type_Conversion\bin\Debug\015_Casting_Type_Conversion.pdb
+C:\SRC\CSharp\015_Casting_Type_Conversion\015_Casting_Type_Conversion\obj\Debug\015_Casting_Type_Conversion.csproj.SuggestedBindingRedirects.cache
+C:\SRC\CSharp\015_Casting_Type_Conversion\015_Casting_Type_Conversion\obj\Debug\015_Casting_Type_Conversion.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\015_Casting_Type_Conversion\015_Casting_Type_Conversion\obj\Debug\015_Casting_Type_Conversion.exe
+C:\SRC\CSharp\015_Casting_Type_Conversion\015_Casting_Type_Conversion\obj\Debug\015_Casting_Type_Conversion.pdb
